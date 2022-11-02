@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: left;
+    padding-bottom: 20px;
+    margin-top: 0;
+}
+
+.try {
+    border: 1px solid grey;
+    width: 300px;
+    padding: 20px;
+    margin: 10% auto 0;
+    text-align: center;
+}
+
+label {
+    display: block;
+    text-align: left;
+    padding: 2px;
+    margin: 2px;
+}
+
+.copy {
+    text-align: center;
+}
+
+input { 
+    background-color: whitesmoke;
+    width: 290px;
+}
+
+.yellow {
+    border: 1px solid grey;
+    background-color: orange;
+}
+
+.close {
+    text-align: center;
+}
+
+.g {
+    text-align: center;
+    border: 2px solid black;
+}
